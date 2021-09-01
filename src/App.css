@@ -1,0 +1,7 @@
+.container{
+  display: flex;
+}
+.otherpages{
+  flex:5;
+  background-color: red;
+}
